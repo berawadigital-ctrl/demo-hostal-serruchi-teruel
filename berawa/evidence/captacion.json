@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hostal-serruchi-teruel",
+ "maps": {
+  "fecha": "2026-10-29T12:58:21+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hostal Serruchi",
+  "nota": 4.5,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Hostal+Serruchi/@40.3461647,-1.1050538,17z/data=!4m9!3m8!1s0xd5e73a843b26a13:0x9e734b4fa2b89819!5m2!4m1!1i2!8m2!3d40.3461647!4d-1.1050538!16s%2Fg%2F1td0hvb1",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T12:58:21+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "Serruchi S.C.",
+  "cif": "J44156651",
+  "fuente": "https://www.hostalserruchi.com/aviso-legal",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal hostalserruchi.com: Serruchi S.C., J44156651; un solo hostal, sin marca de grupo"
+ }
+}
