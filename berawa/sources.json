@@ -1,0 +1,41 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hostalserruchi.com/",
+ "read_at": "2026-11-02T07:31:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hostalserruchi.com/",
+   "sha256": "776d0e72e8e4d59a675b03c4d826d5ce000c0ca748790e50444f41d11dd4f1c1",
+   "chars": 4814
+  },
+  {
+   "url": "https://www.hostalserruchi.com/apartamentos/apartamentos-en-teruel",
+   "sha256": "413428378e1c3b54845ae6f26194eb979b269a0c341420b36f673d7e17cb6e3b",
+   "chars": 2459
+  },
+  {
+   "url": "https://www.hostalserruchi.com/que-ver-en-teruel",
+   "sha256": "47d1e34820aef2282f35a8627438b137c5899e54c7199330f789fd9aecd1f31a",
+   "chars": 7065
+  },
+  {
+   "url": "https://www.hostalserruchi.com/reservas",
+   "sha256": "82a13bc4e78aa98272aee34eb15bd26d36a59a24ba762d58a6e3166890c4b236",
+   "chars": 1827
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hostalserruchi.com",
+  "https://www.hostalserruchi.com/apartamentos/apartamento-doble-abuhardillado",
+  "https://www.hostalserruchi.com/aviso-legal",
+  "https://www.hostalserruchi.com/contactar",
+  "https://www.hostalserruchi.com/habitaciones/alojamiento-teruel",
+  "https://www.hostalserruchi.com/habitaciones/habitacion-doble-teruel",
+  "https://www.hostalserruchi.com/habitaciones/habitacion-familias-teruel",
+  "https://www.hostalserruchi.com/habitaciones/habitacion-triple-teruel",
+  "https://www.hostalserruchi.com/politica-de-cookies",
+  "https://www.hostalserruchi.com/privacidad",
+  "https://www.hostalserruchi.com/uploads/hostalserruchi2/favicon/site.webmanifest"
+ ]
+}
